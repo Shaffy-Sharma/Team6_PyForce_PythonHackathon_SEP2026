@@ -1,4 +1,4 @@
-inpatient_number,eye_opening,verbal_response,movement,consciousness,glasgow_coma_scale,consciousness_mismatch_flag
+patient_id,eye_opening,verbal_response,movement,consciousness,glasgow_coma_scale,consciousness_mismatch_flag
 857781,4,5,6,Clear,15,False
 743087,4,5,6,Clear,15,False
 866418,4,5,6,Clear,15,False
